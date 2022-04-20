@@ -1,4 +1,4 @@
 #!/bin/bash
 clear
-echo 'primera mod'
+echo 'segunda mod'
 exit 0

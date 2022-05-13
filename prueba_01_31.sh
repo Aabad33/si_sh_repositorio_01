@@ -1,4 +1,6 @@
 #!/bin/bash
 clear
-echo 'segunda mod'
+. funciones/funciones.sh
+saludo
+echo "Soy el script 01"
 exit 0
